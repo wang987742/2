@@ -8,6 +8,10 @@
       "type_name": "2022年热榜",
       "type_id": "2022年热门MV4k合集"
     },
+        {
+      "type_name": "Z周杰伦",
+      "type_id": "周杰伦MV"
+    },
     {
       "type_name": "KTV热门",
       "type_id": "KTV热门MV4k合集"
@@ -24,6 +28,10 @@
       "type_name": "古风MV",
       "type_id": "古风MV4k合集"
     },
+       {
+      "type_name": "韩国女团",
+      "type_id": "韩国女团MV4k合集"
+    },
     {
       "type_name": "闽南语MV",
       "type_id": "闽南语MV4k合集"
@@ -37,10 +45,7 @@
       "type_name": "网红翻唱",
       "type_id": "网红翻唱MV4k合集"
     },
-    {
-      "type_name": "韩国女团",
-      "type_id": "韩国女团MV4k合集"
-    },
+ 
     {
       "type_name": "A阿黛尔",
       "type_id": "阿黛尔MV4k合集"
@@ -410,10 +415,7 @@
       "type_name": "Z猪哥亮",
       "type_id": "猪哥亮MV"
     },
-    {
-      "type_name": "Z周杰伦",
-      "type_id": "周杰伦MV"
-    },
+
     {
       "type_name": "Z周深",
       "type_id": "周深MV"
