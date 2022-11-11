@@ -1,6 +1,10 @@
 {
   "classes": [
     {
+      "type_name": "Z周杰伦",
+      "type_id": "周杰伦演唱会超清"
+    },
+    {
       "type_name": "粤语",
       "type_id": "粤语歌曲超清"
     },
@@ -396,10 +400,7 @@
       "type_name": "Z猪哥亮",
       "type_id": "猪哥亮歌曲"
     },
-    {
-      "type_name": "Z周杰伦",
-      "type_id": "周杰伦演唱会超清"
-    },
+ 
     {
       "type_name": "Z周深",
       "type_id": "周深演唱会超清"
