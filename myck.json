@@ -11,7 +11,14 @@
         {
             "url": "https://agit.ai/lytv/tv/raw/branch/master/itv.txt",
             "name": "🐹临时线路"
+        },
+          {
+            "url": "https://agit.ai/lytv/cstv/raw/branch/master/meowcf.json",
+            "name": "其他线路"
         }
+
+
+
         
     ]
 }
